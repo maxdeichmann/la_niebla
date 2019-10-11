@@ -1,0 +1,1 @@
+Setup: https://dev.to/englishcraig/creating-an-app-with-docker-compose-django-and-create-react-app-31lf
