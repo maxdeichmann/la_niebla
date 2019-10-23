@@ -5,7 +5,7 @@ import './FirstSection.css'
 export default () => {
   return (
   <section>
-    <div class="first_component_container">
+    <div class="cont">
       <div class="imgbox">
         <img src={background_image} alt="Rainforest" class="center-fit"/>
       </div>      

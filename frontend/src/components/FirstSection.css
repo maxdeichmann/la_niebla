@@ -1,6 +1,8 @@
 /* Container holding the image and the text */
-.first_component_container {
+.cont {
   position: relative;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 /* Bottom right text */

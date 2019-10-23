@@ -1,0 +1,21 @@
+div.menu {
+  display: table;
+  width: 50%;
+  table-layout: fixed;    /* For cells of equal size */
+  margin: 0 auto;
+}
+
+div.menu span {
+  display: table-cell;
+  text-align: center;
+}
+
+.row {
+  padding: 30px;
+}
+
+h4 {
+  margin: 0 auto;
+  text-align: center;
+}
+

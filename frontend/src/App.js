@@ -1,13 +1,7 @@
 import React, { Component } from 'react';
-import { TodoBanner } from "./components/TodoBanner";
-import { TodoCreator } from "./components/TodoCreator";
-import { TodoRow } from "./components/TodoRow";
-import { VisibilityControl } from "./components/VisibilityControl"
 import { NavigationBar } from "./components/NavigationBar"
-import ReactPageScroller from "react-page-scroller";
 import FirstComponent from "./components/FirstComponent"
-import SecondComponent from './components/SecondComponent';
-import ThirdComponent from './components/ThirdComponent';
+import Footer from './components/Footer';
 
 
 
@@ -29,7 +23,7 @@ export default class App extends Component {
       <div>
         <NavigationBar/>
         <FirstComponent/>
-        {/* <SecondComponent/> */}
+        <Footer/>
       </div>
 
 
