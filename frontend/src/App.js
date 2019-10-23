@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { NavigationBar } from "./components/NavigationBar"
 import FirstComponent from "./components/FirstComponent"
 import Footer from './components/Footer';
-
-
+import LeafComponent from './components/LeafComponent'
+import HelpComponent from './components/HelpComponent'
 
 export default class App extends Component {
 
@@ -23,11 +23,10 @@ export default class App extends Component {
       <div>
         <NavigationBar/>
         <FirstComponent/>
+        <LeafComponent/>
+        <HelpComponent/>
         <Footer/>
       </div>
-
-
-
     )
   }
 }
