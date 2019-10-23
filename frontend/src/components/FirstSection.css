@@ -1,0 +1,19 @@
+/* Container holding the image and the text */
+.first_component_container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  color: white;
+  left: 0;
+  position:absolute;
+  text-align:center;
+  top: 50%;
+  width: 100%
+}
+
+.center-fit {
+  max-width: 100%;
+}
