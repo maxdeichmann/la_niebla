@@ -22,12 +22,12 @@ export default () => {
             </div>
           </div>
           <div class="row">
-            <div class="col-6"><ProjectComponent/></div>
-            <div class="col-6"><ProjectComponent/></div>
+            <div class="col-6"><ProjectComponent name="First" paragraph="Litatem eaqui de volupta cus, as volumenimust di accus sin rehenit ium re volorio consequis aut lam in pa volore et am."/></div>
+            <div class="col-6"><ProjectComponent name="Second" paragraph="Litatem eaqui de volupta cus, as volumenimust di accus sin rehenit ium re volorio consequis aut lam in pa volore et am."/></div>
           </div>
           <div class="row">
-            <div class="col-6"><ProjectComponent/></div>
-            <div class="col-6"><ProjectComponent/></div>
+          <div class="col-6"><ProjectComponent name="Third" paragraph="Litatem eaqui de volupta cus, as volumenimust di accus sin rehenit ium re volorio consequis aut lam in pa volore et am."/></div>
+          <div class="col-6"><ProjectComponent name="Fourth" paragraph="Litatem eaqui de volupta cus, as volumenimust di accus sin rehenit ium re volorio consequis aut lam in pa volore et am."/></div>
           </div>
           </div>
         </div>
